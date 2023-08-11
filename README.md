@@ -1,5 +1,6 @@
 # SQL_Cinema_Project
 
+![IMDb](https://github.com/daylightdts/SQL_BEGINNER_PROJECT/assets/134946052/0fddab5b-bfa0-4fa8-bb5a-8a0a9b130d99)
 
 
 ## The Situation
