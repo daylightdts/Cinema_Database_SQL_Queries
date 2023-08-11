@@ -1,4 +1,4 @@
-# SQL_Cinema_Project
+# Cinema_Queries_SQL
 
 ![IMDb](https://github.com/daylightdts/SQL_BEGINNER_PROJECT/assets/134946052/0fddab5b-bfa0-4fa8-bb5a-8a0a9b130d99)
 
@@ -22,3 +22,19 @@ Joe Sheff, Lead Underwriter
 As the database and data analyst of Deluxe Cinemas, I am required to leverage my SQL skills to extract and analyze data from various tables in the Deluxe Cinema 
 database to answer the underwriter's questions.
 Each of the questions can be answered by querying just one table. As an analyst, my job is to determine which table.
+
+## Skills Demonstrated
+
+**SQL Proficiency**: Leveraged SQL skills to efficiently extract and analyze data from diverse tables within the Deluxe Cinema database.
+
+**Query Crafting**: Formulated precise and tailored SQL queries to address the specific questions posed by underwriters.
+
+**Data Architecture Understanding**: Utilized a deep understanding of data architecture to navigate the complex schema of the database and locate relevant tables.
+
+**Contextual Analysis**: Analyzed the context of each underwriter's question to determine the most suitable table for extracting the required information.
+
+**Problem Solving**: Approached each inquiry as a puzzle, applying problem-solving skills to pinpoint the right tables and information needed for effective answers.
+
+**Intuitive Data Navigation**: Demonstrated an intuitive knack for navigating the database landscape, swiftly identifying the optimal paths to data solutions.
+
+**Collaboration**: Collaborated with colleagues and underwriters to ensure alignment on data requirements and to provide actionable insights.
