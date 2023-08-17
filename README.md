@@ -1,4 +1,4 @@
-# Cinema_Queries_SQL
+# Deluxe_Cinema_Queries_(SQL)
 
 ![IMDb](https://github.com/daylightdts/SQL_BEGINNER_PROJECT/assets/134946052/0fddab5b-bfa0-4fa8-bb5a-8a0a9b130d99)
 
